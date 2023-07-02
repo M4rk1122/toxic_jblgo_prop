@@ -4,10 +4,4 @@ author 'M4rk'
 description 'JBL model'
 version '1.0.0'
 
-data_file 'DLC_ITYP_REQUEST' 'JBL_model.ytyp'
-
-
-
-
-
-
+data_file 'DLC_ITYP_REQUEST' 'stream/JBL_model.ytyp'
